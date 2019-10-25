@@ -1,16 +1,8 @@
 # BGSU Association for Computing Machinery
 
-The purpose of this repository is to maintain a record of operating procedures and events for the Bowling Green State University ACM student chapter.
+This repository has been created to maintain a record of operating procedures and events for the Bowling Green State University ACM student chapter.
 
-## Events
-
-Record of past activities and initiatives the organization has undertaken.
-
-## History
-
-Location for keeping track of previous boards and notable events.
-
-## Procedures
-
-Collection of procedures for various operations of the organization.
-
+Outcomes of this repository include:
+- Allowing new boards to build on top of the knowledge of previous boards
+- Codifying the processes required to conduct business for the organization
+- Creating a historical record.

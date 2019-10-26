@@ -36,8 +36,38 @@ Many vendors are interested in helping hackers learn their technologies. They ca
 - Representatives/Mentors at the event
 - Workshops leading up to the event
 
+### Venue requirements
+
+How to verify the venue is sufficient:
+- Load test the wifi
+    - Additional access points
+- Calculate bathroom to person ratio
+- Check Maximum Capacity
+- Check Amperage of building electricity
+    - Check with school electrician to get access or have someone on call
+    - People who run career fair may have power strips and cords
+
 ---
 ## Running the Hackathon
 
+During the hackathon the goal is to create the best experience for the participants.
+
+### Micro-Events
+
+Have events going on during the hackathon. This can include video games, movies, snack carts, sponsor meet & greets, etc.
+
+### Repositories
+
+Repos should be given to each team at the beginning of the event so that they do not get a head start.
+
+### Judging
+
+The goal of judging is that 100% of participants believe that it was a fair process. This is one of the most difficult parts of running the hackathon. This process can also take a long time so ensure there are things to do throughout the judging process.
+
 ---
 ## After the Hackathon
+
+Tasks to be completed post hackathon include:
+- Send survey to participants to improve to coming year
+- Review how the event went with sponsors
+- Compile notes and make a plan of things to change the coming year

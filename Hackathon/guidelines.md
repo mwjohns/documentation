@@ -28,6 +28,14 @@ Informational sessions provide an opportunity to let students up-skill before th
 
 The goal of informational sessions is to increase preparedness and decrease frustraction. Frustration leads to quitting and quitting leads to the dark side.
 
+### Vendor Partnerships
+
+Many vendors are interested in helping hackers learn their technologies. They can provide:
+- Resources
+- Cloud Instances
+- Representatives/Mentors at the event
+- Workshops leading up to the event
+
 ---
 ## Running the Hackathon
 
